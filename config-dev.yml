@@ -1,1 +1,6 @@
-config.info:dev
+spring:
+  cloud:
+    config:
+      server:
+        version:
+          num: dev
